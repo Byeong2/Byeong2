@@ -11,7 +11,7 @@ Web & mobile developer with a decade of game and VR work behind it.
 
 | Project | Role & Tech | Notes |
 | --- | --- | --- |
-| **ALPHEA CONNECT** | Mobile lead · Unity, Android, iOS | ALPHEA Labs, 2026 – present |
+| **ALPHEA CONNECT** | Mobile lead · Android | ALPHEA Labs, 2026 – present |
 | **Insizen** | Sole full-stack developer | AI design agency service website |
 | **HSOL** | Frontend developer · Angular, React Native, TypeScript | CRM application for hearing aid businesses |
 | **The Interlude Project** | VR engineer · Unity | Coffee-branding VR with virtual latte art · 🏆 [iF Design Award 2022](https://ifdesign.com/en/winner-ranking/project/the-interlude-project/348092) |
